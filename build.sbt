@@ -5,7 +5,7 @@ seq(SbtStartScript.startScriptForClassesSettings: _*)
 seq(Revolver.settings: _*)
 
 
-name := "hubmeister"
+name := "demo"
 
 organization := "com.scalapenos"
 
