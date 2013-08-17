@@ -1,9 +1,9 @@
-import com.typesafe.sbt.SbtStartScript
+// for heroku
+// import com.typesafe.sbt.SbtStartScript
 
-seq(SbtStartScript.startScriptForClassesSettings: _*)
+//seq(SbtStartScript.startScriptForClassesSettings: _*)
 
 seq(Revolver.settings: _*)
-
 
 name := "demo"
 
